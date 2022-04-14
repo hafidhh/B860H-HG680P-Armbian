@@ -14,4 +14,4 @@ armbian-docker
 ```
   
   
-Terimakasih untuk [ophub](https://github.com/ophub) yang telah menyediakan file iso armbian untuk s905x
+Terimakasih untuk [ophub](https://github.com/ophub) yang telah menyediakan file iso armbian untuk amlogic sxxxx
