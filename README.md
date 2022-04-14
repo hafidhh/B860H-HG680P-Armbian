@@ -12,3 +12,6 @@ Login Armbian -> input command
 ```yaml
 armbian-docker
 ```
+  
+  
+Terimakasih untuk [ophub](https://github.com/ophub) yang telah menyediakan file iso armbian untuk s905x
