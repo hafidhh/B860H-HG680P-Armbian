@@ -1,4 +1,6 @@
 # B860H-HG680P-Armbian
+User Default : root  
+Password : 1234  
 
 ## Buat Bootable  
 Extract  
