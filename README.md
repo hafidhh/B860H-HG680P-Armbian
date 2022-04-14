@@ -7,6 +7,13 @@ Copy file dtb ke /dtb/armbian
 
 note : dtb sudah disesuaikan untuk RAM 2gb, untuk ram 1gb tidak perlu copu dtb
 
+## Maximize penggunaan SDcard atau Flashdisk  
+Perinatah ini bertujuan untuk menggunakan seluruh kapasitas yang tersisa sebagai ROOT  
+Login Armbian -> input command
+```yaml
+armbian-docker
+```
+
 ## Docker
 Login Armbian -> input command
 ```yaml
