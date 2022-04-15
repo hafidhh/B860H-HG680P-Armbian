@@ -7,7 +7,7 @@ Extract
 Buat bootable dengan bootable maker ([Rufus](https://rufus.ie/) atau [balenaEtcher](https://www.balena.io/etcher/))  
 Copy file dtb ke /dtb/armbian  
 
-note : dtb sudah disesuaikan untuk RAM 2gb, untuk ram 1gb tidak perlu copu dtb
+note : dtb sudah disesuaikan untuk RAM 2gb, untuk ram 1gb tidak perlu copy dtb
 
 ## Setting Armbian  
 Setting WiFi, jam dll
