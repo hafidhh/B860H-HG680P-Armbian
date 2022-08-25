@@ -17,7 +17,7 @@ armbian-config
 ```
 
 ## Maximize penggunaan SDcard atau Flashdisk  
-Perinatah ini bertujuan untuk menggunakan seluruh kapasitas yang tersisa sebagai ROOT  
+Perinatah ini bertujuan untuk menggunakan seluruh kapasitas yang tersedia sebagai ROOT  
 Login Armbian -> input command
 ```yaml
 armbian-tf
